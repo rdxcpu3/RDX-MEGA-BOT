@@ -30,6 +30,6 @@
   "AI_OWNER_UID": "61577647262557",
   "AI_MODEL": "gpt-oss-120b",
   "AI_ENABLED": true,
-  "AI_API_KEY": "csk-ycc3vcy3fdnx529txdfm5pyewynrtjwnxy9fw5jhkv6pefex",
-  "CEREBRAS_API_URL": "https://api.cerebras.ai/v1/chat/completions"
+  "AI_API_KEY": "",
+  "CEREBRAS_API_URL": "https://api.cerebras.ai/"
 }
